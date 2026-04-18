@@ -1,14 +1,5 @@
 # bone_fracture_detection
 
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3.8-blue.svg)
-![FastAPI](https://img.shields.io/badge/FastAPI-0.104-green.svg)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-8.0-red.svg)
-![Streamlit](https://img.shields.io/badge/Streamlit-1.28-ff4b4b.svg)
-![Docker](https://img.shields.io/badge/Docker-ready-blue.svg)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
-
 **Небольшое ИИ-приложение для автоматического обнаружения переломов костей на рентгеновских снимках**
 
 [О проекте](#о-проекте) • [Возможности](#возможности) • [Установка](#установка) • [Использование](#использование) • [API](#api-документация) • [Docker](#docker-развертывание)
